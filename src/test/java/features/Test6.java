@@ -1,0 +1,8 @@
+Class Test6{
+
+  Public static void main (String args[]){
+
+      System.out.println ("sample testeing file created in github");
+  }
+
+}

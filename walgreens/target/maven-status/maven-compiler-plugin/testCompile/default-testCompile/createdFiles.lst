@@ -1,0 +1,3 @@
+walgreens\BaseTest.class
+walgreens\tests\LoginTest.class
+walgreens\pages\LoginPage.class
